@@ -6,7 +6,6 @@ This repository contains the code and manuscript for the paper submitted to KIPS
 - `paper/` : Final manuscript (HWP)
 - `code/` : Modeling notebooks (CatBoost, AutoML)
 - `data/` : Not publicly available
-- `results/` : Figures used in the paper (optional)
 
 ## Models
 - CatBoost (main model)
